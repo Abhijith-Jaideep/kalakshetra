@@ -6,25 +6,39 @@ import { motion } from 'framer-motion';
 const events = [
   {
     id: 1,
-    title: 'Open Mic Night',
-    date: 'Aug 10, 2025',
-    time: '7:00 PM',
-    description: 'An open stage for singers, poets, and storytellers.',
+    title: 'Inaugration',
+    date: 'Aug 3rd, 2025',
+    time: '2:00 PM',
+    description: 'Inaugration by renowned playback singer Shri R Ravishankar Followed by Music Performances by songs by Santa Babu[Playback Singer], Kalabhavan Dhanya Prasanth, Indu Ratheesh',
   },
   {
     id: 2,
-    title: 'Classical Dance Showcase',
-    date: 'Aug 14, 2025',
-    time: '6:00 PM',
-    description: 'Experience traditional Indian dance performances by talented artists.',
+    title: 'Free Open Mic',
+    date: 'Aug 3rd, 2025',
+    time: '5:00 PM',
+    description: 'Doors open to the public at 5 PM. The first 25 registered guests will receive a chance to perform for free.',
   },
   {
     id: 3,
-    title: 'Karaoke Night',
-    date: 'Aug 17, 2025',
-    time: '8:00 PM',
-    description: 'Sing your heart out under the spotlight. Open for all ages!',
+    title: 'Daily Karaoke Singing Batch A (Mon/Thu)',
+    date: 'Aug 3rd, 2025',
+    time: '5:00 PM - 8:00 PM',
+    description: '',
   },
+  {
+    id: 4,
+    title: 'Daily Karaoke Singing Batch B (Tue/Fri)',
+    date: 'Aug 3rd, 2025',
+    time: '5:00 PM - 8:00 PM',
+    description: '',
+  },
+  {
+    id: 5,
+    title: 'Daily Karaoke Singing Batch C (Wed/Sat)',
+    date: 'Aug 3rd, 2025',
+    time: '5:00 PM - 8:00 PM',
+    description: '',
+  }
 ];
 
 const Events = () => {
