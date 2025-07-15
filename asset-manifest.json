@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalakshetra/static/css/main.1a967aaf.css",
+    "main.js": "/kalakshetra/static/js/main.c926513a.js",
+    "static/media/hero-bg.jpg": "/kalakshetra/static/media/hero-bg.34635fa92168c1be2f91.jpg",
+    "static/media/logo.png": "/kalakshetra/static/media/logo.daf1dee3e251c6e9134a.png",
+    "index.html": "/kalakshetra/index.html",
+    "main.1a967aaf.css.map": "/kalakshetra/static/css/main.1a967aaf.css.map",
+    "main.c926513a.js.map": "/kalakshetra/static/js/main.c926513a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a967aaf.css",
+    "static/js/main.c926513a.js"
+  ]
+}
