@@ -9,7 +9,7 @@ const events = [
     title: 'Inaugration',
     date: 'Aug 3rd, 2025',
     time: '2:00 PM',
-    description: 'Inaugration by renowned playback singer Shri R Ravishankar Followed by Music Performances by songs by Santa Babu[Playback Singer], Kalabhavan Dhanya Prasanth, Indu Ratheesh',
+    description: 'Inaugration by renowned playback singer Shri R Ravishankar, followed by music performances by Santa Babu[Playback Singer], Kalabhavan Dhanya Prasanth, Indu Ratheesh',
   },
   {
     id: 2,
