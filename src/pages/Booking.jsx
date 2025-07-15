@@ -113,6 +113,7 @@ const Booking = () => {
                     />
 
                     <div className="space-y-4">
+                        <h1 className="text-4xl font-bold text-yellow-400 mb-6 text-center">Facilities to be availed</h1>
                         {facilitiesList.map((facility) => (
                             <div
                                 key={facility.name}
