@@ -54,7 +54,7 @@ const Booking = () => {
         },
         { label: 'Wifi Access', name: 'wifiAccess', charge: 'Free' },
         {
-            label: 'Digital Recording',
+            label: 'Digital Audio/Video Recording',
             name: 'digitalRecording',
             charge: '500₹/hr',
         },
