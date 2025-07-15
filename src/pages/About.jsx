@@ -15,10 +15,10 @@ const About = () => {
         </h1>
         <p className="text-lg leading-relaxed text-gray-200">
           The Kalakshetra Events Hub is a vibrant cultural venue nestled in the heart of Kalady, Kochi.  
-          Whether you're a performer, organizer, or enthusiast – Kalaksetra is your new home for expression.
+          Whether you're a performer, organizer, or enthusiast – Kalakshetra is your new home for expression.
         </p>
         <p className="text-lg leading-relaxed mt-6 text-gray-200">
-          Kalakshetra is equipped with Professional-grade audio setup and lighting infrastructure, climate control, and a 45-seat mini theatre setting 
+          We are equipped with Professional-grade audio setup and lighting infrastructure, climate control, and a 45-seat mini theatre setting 
           to deliver an unforgettable experience for both artists and audiences.
         </p>
       </div>
