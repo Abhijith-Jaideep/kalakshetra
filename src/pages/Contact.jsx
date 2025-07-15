@@ -15,19 +15,16 @@ const Contact = () => {
         </h1>
 
         <p className="text-lg mb-4">📍 MC Road, Kalady, Kerala</p>
-        <p className="text-lg mb-4">📞 +91 81389 69095</p>
+        <p className="text-lg mb-4">📞 +91 85901 09095</p>
         <p className="text-lg mb-4">✉️ bookings@kalakshetra.com</p>
 
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31599.216915372553!2d80.21746599999999!3d13.0115561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5266712fd97d13%3A0x30f7e4e649a7cf57!2sKalakshetra%20Foundation!5e0!3m2!1sen!2sin!4v1721021653260!5m2!1sen!2sin"
-          width="100%"
-          height="350"
-          style={{ border: 0 }}
+          title="Kalakshetra Map"
+          className="w-full h-64 sm:h-80 mt-8 rounded-lg border-4 border-yellow-400 shadow-lg"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.009097665261!2d76.3469!3d10.1969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080b240b71a3c1%3A0x4f37b33aee79fe4d!2sKalady%2C%20Kerala!5e0!3m2!1sen!2sin!4v1629476974871!5m2!1sen!2sin"
           allowFullScreen=""
           loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
-
       </div>
     </motion.div>
   );
