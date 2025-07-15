@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo1.png';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -13,11 +13,8 @@ const Navbar = () => {
           <img
             src={logo}
             alt="Kalakshetra Logo"
-            className="h-14 w-14 sm:h-16 sm:w-16 object-cover rounded-full"
-          />
-          <Link to="/" className="text-2xl font-bold text-yellow-400">
-            Kalakshetra Events Hub
-          </Link>
+            className='h-20 w-100 rounded-md'
+          />            
         </div>
 
         {/* Hamburger Icon for Mobile */}
