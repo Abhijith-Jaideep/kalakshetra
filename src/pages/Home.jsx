@@ -28,12 +28,16 @@ const Home = () => {
             📍 Kalady, Kochi | 🎧 Sound-ready | ❄️ Air Conditioned
           </p>
           <div className="space-x-4">
-            <button className="bg-yellow-400 text-black font-semibold px-4 py-2 rounded hover:bg-yellow-300">
-              Book the Venue
-            </button>
-            <button className="bg-white text-black font-semibold px-4 py-2 rounded hover:bg-gray-200">
-              View Upcoming Events
-            </button>
+            <Link to="/booking" className="hover:text-yellow-400 transition duration-200">
+              <button className="bg-yellow-400 text-black font-semibold px-4 py-2 rounded hover:bg-yellow-300">
+                Book the Venue
+              </button>
+            </Link>
+            <Link to="/events" className="hover:text-yellow-400 transition duration-200">
+              <button className="bg-white text-black font-semibold px-4 py-2 rounded hover:bg-gray-200">
+                View Upcoming Events
+              </button>
+            </Link>
           </div>
         </div>
       </section>
