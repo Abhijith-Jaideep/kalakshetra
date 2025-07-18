@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kalakshetra/static/css/main.b88618fb.css",
-    "main.js": "/kalakshetra/static/js/main.2121634d.js",
+    "main.css": "/kalakshetra/static/css/main.9d06f837.css",
+    "main.js": "/kalakshetra/static/js/main.789f61fd.js",
     "static/media/hero-bg.jpg": "/kalakshetra/static/media/hero-bg.34635fa92168c1be2f91.jpg",
     "static/media/logo1.png": "/kalakshetra/static/media/logo1.b8f44311e31f9a2c77ea.png",
     "index.html": "/kalakshetra/index.html",
-    "main.b88618fb.css.map": "/kalakshetra/static/css/main.b88618fb.css.map",
-    "main.2121634d.js.map": "/kalakshetra/static/js/main.2121634d.js.map"
+    "main.9d06f837.css.map": "/kalakshetra/static/css/main.9d06f837.css.map",
+    "main.789f61fd.js.map": "/kalakshetra/static/js/main.789f61fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b88618fb.css",
-    "static/js/main.2121634d.js"
+    "static/css/main.9d06f837.css",
+    "static/js/main.789f61fd.js"
   ]
 }
