@@ -1,6 +1,7 @@
 import React from 'react';
 import heroImage from '../hero-bg.jpg';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
